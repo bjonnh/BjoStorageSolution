@@ -1,0 +1,10 @@
+* BjoStorageSolution
+
+This project's purpose is to help assembling normalized archives for data associated with chemical entities.
+
+It is using Python >=3.8 (not tested with earlier versions).
+
+You will have to intall openbabel and the openbabel python library. This will depend on the platform you are using.
+There is not much ways around that as openbabel 3.0.0 is not yet available on PyPi.
+
+It also means, it will not work with virtualenvironment that do not have site packages.
