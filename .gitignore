@@ -1,0 +1,5 @@
+**/*.pyc
+/.idea/
+*.zip
+venv
+data/
